@@ -1,0 +1,1 @@
+kopia @ file:///Users/yanghyeonseo/Developer/kopia/dist/kopia-0.1.0-py3-none-any.whl#sha256=d5ee6cc8d0a3332f7ded3ae537dc7de3f279e52b1ae9bdf8c141a291cbd2a9bb
